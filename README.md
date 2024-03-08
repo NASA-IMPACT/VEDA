@@ -10,6 +10,6 @@ Please see our [VEDA User Docs](https://nasa-impact.github.io/veda-docs)
 
 Check out the [VEDA wiki](https://github.com/NASA-IMPACT/VEDA/wiki)
 
-## Onboarding team members
+## Onboarding team members (project-internal)
 
 Please see our [internal planning repository and contributor's docs](https://github.com/NASA-IMPACT/veda-architecture/wiki)
