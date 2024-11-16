@@ -4,11 +4,7 @@
 
 ## Service users and scientists
 
-Please see our [VEDA User Docs](https://nasa-impact.github.io/veda-docs)
-
-## Integrators of our open source solution
-
-Check out the [VEDA wiki](https://github.com/NASA-IMPACT/VEDA/wiki)
+Please see our [VEDA User Docs](https://docs.openveda.cloud/)
 
 ## Onboarding team members (project-internal)
 
